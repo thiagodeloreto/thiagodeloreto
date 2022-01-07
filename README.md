@@ -7,7 +7,15 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Formando em Jornalismo 
 
+<br>
 
+<div align="center">
+  <a href="https://github.com/thiagodeloreto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodeloreto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodeloreto&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br>
 
 <div align="center"><br>
   <h2>Minhas principais tecnologias</h2>
