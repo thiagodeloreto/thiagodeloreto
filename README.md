@@ -19,6 +19,7 @@
 
 <div align="center"><br>
   <h2>Minhas principais tecnologias</h2>
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://www.svgrepo.com/show/43101/java.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
